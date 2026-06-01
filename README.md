@@ -20,9 +20,9 @@ The dashboard tracks important KPIs like total revenue, profit, customer count a
 3. Number of custmers
 4. Total orders
    
-  ![Dashboard Metrics](sales_sp.png)
+  ![Dashboard Metrics](dashboard1.png)
   
-  ![Dashboard Metrics](sales-sp.png)
+  ![Dashboard Metrics](dashboard2.png)
   
 #### 2. Total sales per product category - Bar chart
 Shows the sales performance of each product category (Technology, Furniture and Office Supplies).  
