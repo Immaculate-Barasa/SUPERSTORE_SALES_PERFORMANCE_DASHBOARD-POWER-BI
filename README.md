@@ -14,3 +14,4 @@ The dashboard tracks important KPIs like total revenue, profit, customer count a
 6. What is the most preferred shipping method?
 
 ## Insights
+![Dashboard Metrics](sales_sp.png)
