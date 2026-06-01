@@ -17,7 +17,7 @@ The dashboard tracks important KPIs like total revenue, profit, customer count a
 #### 1. KPIs
 1. Total revenue 
 2. Profit 
-3. Number of custmers
+3. Number of customers
 4. Total orders
    
   ![Dashboard Metrics](dashboard1.png)
