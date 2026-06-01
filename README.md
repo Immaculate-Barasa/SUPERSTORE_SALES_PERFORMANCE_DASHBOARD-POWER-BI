@@ -13,5 +13,41 @@ The dashboard tracks important KPIs like total revenue, profit, customer count a
 5. How is sales performance geographically?
 6. What is the most preferred shipping method?
 
-## Insights
-![Dashboard Metrics](sales_sp.png)
+## Dashboard visualizations and insights
+#### 1. KPIs
+1. Total revenue 
+2. Profit 
+3. Number of custmers
+4. Total orders
+   
+  ![Dashboard Metrics](sales_sp.png)
+  
+  ![Dashboard Metrics](sales-sp.png)
+  
+#### 2. Total sales per product category - Bar chart
+Shows the sales performance of each product category (Technology, Furniture and Office Supplies).  
+This helps the business know its revenue driver.
+
+#### 3. Monthly sales over time - Line chart
+Shows sales performance trend over each month which helps identify peak seasons and sales declines over the years.
+
+#### 4. Sales by customers and product category - Matrix table
+Breaks down each individual customer's spending and what product category they spend on.  
+This helps the business know its high value and loyal customers to help in targeted marketing and promos.
+
+#### 5. Sales by region - Donut chart
+It shows the total sales for each region and its percentage contribution to the total revenue.  
+This is useful for marketing, inventory and overall budgeting.
+
+#### 6. Count of orders per shipping mode - Donut chart
+It shows the number of orders for each shipping mode and its percentage to the total orders.  
+This helps the business know the most preferred shipping mode and how to streamline its operations.
+
+#### 7. Sales by city and state - Bar charts
+Shows the sales performance by each city and state.  
+This is useful for marketing, inventory and overall budgeting.
+
+## Tools
+Power-BI
+
+
